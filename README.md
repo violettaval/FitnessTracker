@@ -28,13 +28,17 @@ npm i
 ## Usage
 
 This is set of server scripts to run on a heroku hosted server to log exercises. 
+
 ![1](https://user-images.githubusercontent.com/70643274/98899817-05fade80-2476-11eb-9ddb-13c8f32b1306.PNG)
+
 New users will have to add a workout upon starting the app.
 
 ![2](https://user-images.githubusercontent.com/70643274/98899934-4b1f1080-2476-11eb-8e29-4fd64026aa3c.PNG)
+
 They will be prompted with the exercise choices of Resistance or Cardio. 
 
 Examples Below:
+
 ![3](https://user-images.githubusercontent.com/70643274/98899941-4d816a80-2476-11eb-96da-3a9301a8b7c4.PNG)
 
 ![4](https://user-images.githubusercontent.com/70643274/98899951-51ad8800-2476-11eb-8c5b-a59ce7131706.PNG)
